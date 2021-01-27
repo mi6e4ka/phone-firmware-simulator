@@ -1,2 +1,2 @@
 # Симулятор прошивки телефона
-## см. releases
+## см. <a href=https://github.com/mi6e4ka/phone-firmware-simulator/releases>releases</a>
